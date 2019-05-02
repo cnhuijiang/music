@@ -1,0 +1,10 @@
+/Users/jimmy/Projects/music/music/bin/Release/netcoreapp2.1/music.deps.json
+/Users/jimmy/Projects/music/music/bin/Release/netcoreapp2.1/music.runtimeconfig.json
+/Users/jimmy/Projects/music/music/bin/Release/netcoreapp2.1/music.runtimeconfig.dev.json
+/Users/jimmy/Projects/music/music/bin/Release/netcoreapp2.1/music.dll
+/Users/jimmy/Projects/music/music/bin/Release/netcoreapp2.1/music.pdb
+/Users/jimmy/Projects/music/music/obj/Release/netcoreapp2.1/music.csproj.CoreCompileInputs.cache
+/Users/jimmy/Projects/music/music/obj/Release/netcoreapp2.1/music.AssemblyInfoInputs.cache
+/Users/jimmy/Projects/music/music/obj/Release/netcoreapp2.1/music.AssemblyInfo.cs
+/Users/jimmy/Projects/music/music/obj/Release/netcoreapp2.1/music.dll
+/Users/jimmy/Projects/music/music/obj/Release/netcoreapp2.1/music.pdb
